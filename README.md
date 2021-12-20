@@ -12,7 +12,7 @@ The dependency check tool was the most helpful, it created a shortcut in detecti
 # How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 Through testing, most of the vulnerabilities were caused by using old libraries. By updating the libraries currently in use in the code, more secure software is created. Using penetration testing in the future will better assess the additional vulnerabilities within the code.
 
-#How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+# How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 Through coding the software, I continually ran debugs to ensure that it was functional. After refactoring the code, I ran another vulnerability test to check if any new vulnerabilities were introduced.
 
 # What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
